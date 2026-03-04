@@ -3,16 +3,6 @@
 <h1 align="center">Olá 👋, sou Kayke Nícolas</h1>
 <h3 align="center">Um estudante de Ciência da Computação do interior da Paraíba!!</h3>
 
-- 🔭 Estou trabalhando atualmente no [último projeto de HTML e CSS da Origamid](https://github.com/KaykeNicolas007/projeto-final-origamid.git)
-
-- 🌱 Estou estudando atualmente **HTML, CSS e Estrutura de Dados**
-
-- 💬 Pergunte-me sobre **estudos em geral**
-
-- 📫 Meu email: **kayke.campos@aluno.uepb.edu.br**
-
-- ⚡ Fun fact **Me vejo como muito proativo e compromissado :D**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kayke-nicolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayke-nicolas" height="30" width="40" /></a>
